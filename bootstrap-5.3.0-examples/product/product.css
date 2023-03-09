@@ -7,9 +7,10 @@
  */
 
 .site-header {
-  background-color: rgba(0, 0, 0, .85);
+  background-color:#F17829;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
+  font-family: 'Rampart One';
 }
 .site-header a {
   color: #8e8e8e;
